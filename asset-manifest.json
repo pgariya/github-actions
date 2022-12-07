@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pgariya/github-actions/static/css/main.073c9b0a.css",
+    "main.js": "/pgariya/github-actions/static/js/main.5df893ec.js",
+    "static/js/787.fb43f476.chunk.js": "/pgariya/github-actions/static/js/787.fb43f476.chunk.js",
+    "index.html": "/pgariya/github-actions/index.html",
+    "main.073c9b0a.css.map": "/pgariya/github-actions/static/css/main.073c9b0a.css.map",
+    "main.5df893ec.js.map": "/pgariya/github-actions/static/js/main.5df893ec.js.map",
+    "787.fb43f476.chunk.js.map": "/pgariya/github-actions/static/js/787.fb43f476.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5df893ec.js"
+  ]
+}
